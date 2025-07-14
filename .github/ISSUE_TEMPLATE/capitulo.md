@@ -1,1 +1,6 @@
+name: "Capítulo X – Título"
+body:
+  - [ ] Sprint 1 – Descripción breve
+  - [ ] Sprint 2 – …
+  - [ ] … 
 
