@@ -108,13 +108,9 @@ print(df_bcc)
 
 ---
 
-### Sprint 5: Revisión Profunda y Cierre del Capítulo 1
 
-1. **Revisión de estilo y cohesión**: Verifica consistencia en terminología (IA deliberativa vs predictiva) y formato de listas, encabezados y blocs de código.
-2. **Profundización técnica**: Añade referencias a artículos clave sobre clausura epistémica en IA (e.g., Drucker et al., 2022) y relevancia del DEA en salud (e.g., Hollingsworth, 2008).
-3. **Validación de nodos deliberativos**: Asegúrate de que CD-1, CD-1a, CD-1b y CD-1c formen un árbol lógico, sin superposición semántica.
-4. **Verificación de enlaces y artefactos**: Comprueba que el sticky note al comienzo y los comentarios Canvas estén actualizados.
-5. **Cerrar Issue #1 en GitHub**: Marca las tareas como completadas y enlaza el pull request con el documento final.
 
-Con esto, el **Capítulo 1** queda completo y listo para publicación preliminar. ¡Enhorabuena!
+<small>Ejecuta este mismo código en el notebook de laboratorio o en la app Streamlit.</small>
+
+
 
