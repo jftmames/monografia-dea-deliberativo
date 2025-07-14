@@ -1,1 +1,18 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install deps
+        run: pip install flake8 black
+      - name: Lint
+        run: flake8 .
+      - name: Format check
+        run: black --check .
 
